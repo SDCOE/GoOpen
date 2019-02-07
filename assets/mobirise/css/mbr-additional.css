@@ -1,8 +1,6 @@
-@import url(https://fonts.googleapis.com/css?family=Lora:400,700);
+@import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
+@import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Raleway:400,300,700);
-
-
 
 
 
@@ -10,11 +8,11 @@ body,
 input,
 textarea,
 .mbr-company .list-group-text {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .mbr-footer-content li,
 .mbr-footer .mbr-contacts li {
-  font-family: 'Raleway', sans-serif;
+  font-family: 'Ubuntu', sans-serif;
 }
 .btn,
 .alert,
@@ -38,7 +36,7 @@ h6,
 .mbr-gallery-title,
 .mbr-map [data-state-details],
 .mbr-price {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .mbr-footer-content h1,
 .mbr-footer .mbr-contacts h1,
@@ -52,7 +50,7 @@ h6,
 .mbr-footer .mbr-contacts p strong,
 .mbr-footer-content strong,
 .mbr-footer .mbr-contacts strong {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .btn-sm,
 .lead a,
@@ -61,20 +59,23 @@ h6,
 .mbr-section-hero .mbr-section-lead,
 .mbr-cards .card-subtitle,
 .mbr-testimonial .card-block {
-  font-family: 'Lora', serif;
+  font-family: 'Merriweather', serif;
+  font-style: normal;
 }
 .mbr-author-name {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .mbr-author-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Merriweather', serif;
+  font-style: normal;
 }
 .mbr-plan-title {
-  font-family: 'Ubuntu', sans-serif;
+  font-family: 'Lato', sans-serif;
 }
 .mbr-plan-subtitle,
 .mbr-plan-price-desc {
-  font-family: 'Lora', serif;
+  font-family: 'Merriweather', serif;
+  font-style: normal;
 }
 .bg-primary {
   background-color: #005488 !important;
@@ -409,82 +410,4 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #005488;
-}
-#menu-6 .hide-buttons .nav-btn {
-  display: none !important;
-}
-#menu-6 .navbar-caption {
-  color: #ffffff;
-  font-family: 'Lora', serif;
-}
-#menu-6 .navbar-toggler {
-  color: #ffffff;
-}
-#menu-6 .close-icon::before,
-#menu-6 .close-icon::after {
-  background-color: #ffffff;
-}
-#menu-6 .link,
-#menu-6 .dropdown-item {
-  color: #ffffff;
-}
-#menu-6 .link {
-  font-size: 0.85rem;
-}
-#menu-6 .dropdown-item,
-#menu-6 .nav-dropdown-sm .link {
-  font-size: 0.921rem;
-}
-#menu-6 .link:hover,
-#menu-6 .dropdown-item:hover,
-#menu-6 .link:focus,
-#menu-6 .dropdown-item:focus {
-  color: #005488;
-}
-#menu-6 .link[aria-expanded="true"],
-#menu-6 .dropdown-menu {
-  background: #003455;
-}
-#menu-6 .nav-dropdown-sm .link:focus,
-#menu-6 .nav-dropdown-sm .link:hover,
-#menu-6 .nav-dropdown-sm .dropdown-item:focus,
-#menu-6 .nav-dropdown-sm .dropdown-item:hover {
-  background: #004b79!important;
-}
-#menu-6 .navbar,
-#menu-6 .nav-dropdown-sm,
-#menu-6 .nav-dropdown-sm .link[aria-expanded="true"],
-#menu-6 .nav-dropdown-sm .dropdown-menu {
-  background: #005488;
-}
-#menu-6 .bg-color.transparent .link {
-  color: #ffffff;
-  transition: none;
-}
-#menu-6 .bg-color.transparent.opened .link {
-  transition: color 0.2s ease-in-out;
-}
-#menu-6 .bg-color.transparent.opened .link:hover,
-#menu-6 .bg-color.transparent.opened .link:focus {
-  color: #005488;
-}
-#menu-6 .link[aria-expanded="true"],
-#menu-6 .dropdown-item[aria-expanded="true"] {
-  color: #005488!important;
-}
-#menu-6 .btn {
-  font-size: 13px;
-  font-family: 'Ubuntu', sans-serif;
-}
-#header5-2 .mbr-section-title {
-  color: #ffffff;
-}
-#header5-2 .mbr-section-lead {
-  color: #000000;
-}
-#header5-2 .mbr-section-title DIV {
-  color: #ffffff;
-}
-#header5-2 .mbr-section-lead SPAN {
-  color: #ffffff;
 }
