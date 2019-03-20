@@ -38,7 +38,9 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/GoOpen"
   },
   "pages": {
     "GoOpen.html": {
@@ -172,7 +174,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "SDCOE Logo: Future without boundaries",
               "title": ""
@@ -204,7 +206,7 @@
             "paddingBottom": 1,
             "bgColor": "#cccccc"
           },
-          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"http://goopen.innovatesd.org\" data-toolbar=\"-mbrBtnMove\">REGISTRATION</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">ONLINE SCHEDULE</a>",
+          "buttons": "<a data-app-btn=\"true\" class=\"btn btn-primary\" href=\"https://mobirise.com/mobirise-free-win.zip\" data-toolbar=\"-mbrBtnMove\">REGISTRATION</a> <a data-app-btn=\"true\" class=\"btn btn-black btn-black-outline\" href=\"https://mobirise.com/mobirise-free-mac.zip\" data-toolbar=\"-mbrBtnMove\">ONLINE SCHEDULE</a>",
           "_tags": [
             "Theme"
           ],
@@ -264,7 +266,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2019-kishmael-headshot-1280x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2019%20kishmael%20headshot-1280x1280.jpg",
               "link": "",
               "alt": "Headshot Kristina Ishmael",
               "title": ""
