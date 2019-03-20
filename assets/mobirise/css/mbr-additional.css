@@ -1,6 +1,7 @@
+@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Lato:400,300,700);
 @import url(https://fonts.googleapis.com/css?family=Merriweather:400,300,700);
-@import url(https://fonts.googleapis.com/css?family=Ubuntu:400,300,700);
+
 
 
 
@@ -410,4 +411,90 @@ h6,
 .mbr-small-footer a,
 .mbr-gallery-filter li:hover {
   color: #005488;
+}
+#ext_menu-f .hide-buttons .nav-btn {
+  display: none !important;
+}
+#ext_menu-f .navbar-caption {
+  color: #ffffff;
+}
+#ext_menu-f .navbar-toggler {
+  color: #ffffff;
+}
+#ext_menu-f .close-icon::before,
+#ext_menu-f .close-icon::after {
+  background-color: #ffffff;
+}
+#ext_menu-f .link,
+#ext_menu-f .dropdown-item {
+  color: #ffffff;
+}
+#ext_menu-f .link {
+  font-size: 0.75rem;
+}
+#ext_menu-f .dropdown-item,
+#ext_menu-f .nav-dropdown-sm .link {
+  font-size: 0.812rem;
+}
+#ext_menu-f .link:hover,
+#ext_menu-f .dropdown-item:hover,
+#ext_menu-f .link:focus,
+#ext_menu-f .dropdown-item:focus {
+  color: #005488;
+}
+#ext_menu-f .link[aria-expanded="true"],
+#ext_menu-f .dropdown-menu {
+  background: #0e0e0e;
+}
+#ext_menu-f .nav-dropdown-sm .link:focus,
+#ext_menu-f .nav-dropdown-sm .link:hover,
+#ext_menu-f .nav-dropdown-sm .dropdown-item:focus,
+#ext_menu-f .nav-dropdown-sm .dropdown-item:hover {
+  background: #202020!important;
+}
+#ext_menu-f .navbar,
+#ext_menu-f .nav-dropdown-sm,
+#ext_menu-f .nav-dropdown-sm .link[aria-expanded="true"],
+#ext_menu-f .nav-dropdown-sm .dropdown-menu {
+  background: #282828;
+}
+#ext_menu-f .bg-color.transparent .link {
+  color: #ffffff;
+  transition: none;
+}
+#ext_menu-f .bg-color.transparent.opened .link {
+  transition: color 0.2s ease-in-out;
+}
+#ext_menu-f .bg-color.transparent.opened .link:hover,
+#ext_menu-f .bg-color.transparent.opened .link:focus {
+  color: #005488;
+}
+#ext_menu-f .link[aria-expanded="true"],
+#ext_menu-f .dropdown-item[aria-expanded="true"] {
+  color: #005488!important;
+}
+#msg-box6-c .mbr-section-title,
+#msg-box6-c .lead p {
+  color: #fff;
+}
+#msg-box6-c P {
+  font-family: 'Ubuntu', sans-serif;
+}
+#header3-i .mbr-section-title,
+#header3-i .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-i .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header3-i .mbr-section-title {
+  font-size: 46px;
+  color: #ffffff;
+}
+#msg-box5-l P {
+  text-align: left;
+  font-size: 16px;
+}
+#content1-o P {
+  font-size: 16px;
 }

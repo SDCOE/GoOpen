@@ -1,0 +1,87 @@
+{
+  "settings": {
+    "name": "#GoOpen Summit",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "mobirise3",
+      "title": "Mobirise3",
+      "styling": {
+        "primaryColor": "#005488",
+        "secondaryColor": "#bfcecb",
+        "successColor": "#90a878",
+        "infoColor": "#7e8e9f",
+        "warningColor": "#f3c649",
+        "dangerColor": "#f28281",
+        "titleFont": "Lato",
+        "subtitleFont": "Merriweather",
+        "textFont": "Ubuntu",
+        "isRoundedButtons": false,
+        "isAnimatedOnScroll": true,
+        "isScrollToTopButton": true,
+        "isRtl": false
+      },
+      "additionalSetColors": [
+        "#7e8e9f",
+        "#00aeef",
+        "#005488",
+        "#00aeff"
+      ]
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.8.10",
+    "siteFonts": [],
+    "uniqCompNum": 12,
+    "versionPublish": "4.9.1",
+    "screenshot": "screenshot.png",
+    "favicon": "@PROJECT_PATH@/assets/images/lls-goopensummit-savedate-128x84.png",
+    "noImageResize": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "gdpr": "",
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///Users/patrick.gittis/Documents/GitHub/GoOpen"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_params": {
+            "showText": true,
+            "paddingTop": "0",
+            "paddingBottom": 4,
+            "bgColor": "#fff"
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/lls_goopensummit_savedate-1-1313x864.jpg",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": "",
+              "active": true
+            },
+            "video": {
+              "class": "mbr-embedded-video",
+              "src": "https://www.youtube.com/embed/Tq7p44IA-1U"
+            }
+          },
+          "text": "<a href=\"mailto:erin.english@sdcoe.net\">Contact: Erin English, Ed.D</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video2",
+          "_anchor": "video2-b"
+        }
+      ]
+    }
+  }
+}
