@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "#GoOpen Summit",
-    "currentPage": "index.html",
+    "currentPage": "GoOpen.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -41,7 +41,7 @@
     "siteUrl": "undefined"
   },
   "pages": {
-    "index.html": {
+    "GoOpen.html": {
       "settings": {
         "main": true,
         "title": "#GoOpen International Summit",
