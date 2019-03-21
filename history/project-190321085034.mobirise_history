@@ -38,7 +38,9 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/GoOpen"
   },
   "pages": {
     "GoOpen.html": {
@@ -66,7 +68,7 @@
             "fontColor": "#ffffff",
             "fontHoverColor": "@primaryColor"
           },
-          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.innovatesd.org\" target=\"_blank\" aria-expanded=\"false\">SDCOE.net</a></li><li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.innovatesd.org\" target=\"_blank\" aria-expanded=\"false\">INNOVATESD.ORG</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
+          "items": "<li class=\"nav-item\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.innovatesd.org\" target=\"_blank\" aria-expanded=\"false\">INNOVATESD.ORG</a></li><li class=\"nav-item dropdown\"><a data-app-btn=\"true\" class=\"nav-link link\" href=\"https://www.sdcoe.net/Pages/Home.aspx\" target=\"_blank\" aria-expanded=\"true\">SDCOE.net</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-white btn-white-outline\" href=\"https://mobirise.com/\">DOWNLOAD</a></li><li class=\"nav-item nav-btn\"><a data-app-btn=\"true\" data-button=\"\" data-app-selector=\".btn\" class=\"nav-link btn btn-primary\" href=\"https://mobirise.com/\">BUY</a></li>",
           "_tags": [
             "Theme"
           ],
@@ -172,7 +174,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "SDCOE Logo: Future without boundaries",
               "title": ""
@@ -264,7 +266,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2019-kishmael-headshot-1280x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2019%20kishmael%20headshot-1280x1280.jpg",
               "link": "",
               "alt": "Headshot Kristina Ishmael",
               "title": ""
