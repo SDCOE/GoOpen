@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "#GoOpen Summit",
-    "currentPage": "index.html",
+    "currentPage": "GoOpen.html",
     "theme": {
       "name": "mobirise3",
       "title": "Mobirise3",
@@ -38,10 +38,12 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/GoOpen"
   },
   "pages": {
-    "index.html": {
+    "GoOpen.html": {
       "settings": {
         "main": true,
         "title": "#GoOpen International Summit",
@@ -172,7 +174,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "SDCOE Logo: Future without boundaries",
               "title": ""
@@ -264,7 +266,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2019-kishmael-headshot-1280x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2019%20kishmael%20headshot-1280x1280.jpg",
               "link": "",
               "alt": "Headshot Kristina Ishmael",
               "title": ""
