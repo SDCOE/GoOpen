@@ -498,3 +498,14 @@ h6,
 #content1-o P {
   font-size: 16px;
 }
+#header3-t .mbr-section-title,
+#header3-t .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-t .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header3-t .mbr-section-title {
+  font-size: 46px;
+  color: #ffffff;
+}
