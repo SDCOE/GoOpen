@@ -38,7 +38,9 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/GoOpen"
   },
   "pages": {
     "index.html": {
@@ -172,7 +174,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-reverse-1400x1066.png",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_reverse-1400x1066.png",
               "link": "",
               "alt": "SDCOE Logo: Future without boundaries",
               "title": ""
@@ -244,7 +246,7 @@
             "showText": true,
             "showButtons": false,
             "inverse": false,
-            "imageSize": "24",
+            "imageSize": "37",
             "paddingTop": "0",
             "paddingBottom": 0,
             "bgImageRadio": false,
@@ -264,7 +266,7 @@
             "image": {
               "active": true,
               "width": 1400,
-              "src": "@PROJECT_PATH@/assets/images/2019-kishmael-headshot-1280x1280.jpg",
+              "src": "@PROJECT_PATH@/assets/images/2019%20kishmael%20headshot-1280x1280.jpg",
               "link": "",
               "alt": "Headshot Kristina Ishmael",
               "title": ""
@@ -366,7 +368,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/national-logo-600x264.jpg",
+              "src": "@PROJECT_PATH@/assets/images/national_logo-600x264.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -377,7 +379,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sip-combo-logo-stacked-rgb-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/sip_combo_logo_stacked_rgb-600x375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -388,7 +390,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/harmony-combo-logo-stacked-rgb-600x281.png",
+              "src": "@PROJECT_PATH@/assets/images/harmony_combo_logo_stacked_rgb-600x281.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
