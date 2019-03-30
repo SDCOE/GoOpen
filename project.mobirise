@@ -30,7 +30,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 30,
+    "uniqCompNum": 31,
     "versionPublish": "4.9.7",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/lls-goopensummit-savedate-128x84.png",
@@ -323,7 +323,7 @@
               "color": "#ffffff"
             },
             ".mbr-section-title": {
-              "font-size": "46px",
+              "font-size": "24px",
               "color": "#ffffff"
             }
           },
@@ -465,6 +465,38 @@
           ],
           "_name": "features3",
           "_anchor": "features3-q"
+        },
+        {
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#005488",
+            "overlay": true,
+            "overlayColor": "#3C3C3C",
+            "overlayOpacity": 0.8,
+            "googleMap": {
+              "address": "https://www.google.com/maps/place/National+University+-+Spectrum+Business+Park+Campus/@32.8294856,-117.1294394,17z/data=!4m5!3m4!1s0x80dbffb4dce1e349:0xb5a8c8330452fe18!8m2!3d32.8294811!4d-117.1272507",
+              "placeId": "ChIJSePh3LT_24ARGP5SBDPIqLU",
+              "state": "ok",
+              "stateDetails": ""
+            }
+          },
+          "text1": "<strong>Address</strong><br>National University <br>Spectrum Business Park Campus<br>9388 Lightwave Avenue<br>San Diego, CA 92123<br><br><br>\n<strong>Contacts</strong><br>\nEmail: mgonzalez@sdcoe.net<br><br>",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>Plan Your Stay</strong><a href=\"http://www.hotelcircle.net/\" target=\"_blank\" class=\"text-info\" style=\"font-size: 0.875rem; background-color: rgb(0, 84, 136);\"><b>&nbsp;</b></a></p><ul><li><b><a href=\"https://www.sandiego.org/\" target=\"_blank\">San Diego: Explore, Plan, Stay</a><br></b><a href=\"https://www.sandiego.org/\" target=\"_blank\">&nbsp; &nbsp; Areas of Interest:&nbsp;</a><br><a href=\"https://www.sandiego.org/\" target=\"_blank\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Hotel Circle</a><br><a href=\"https://www.sandiego.org/\" target=\"_blank\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Mission Bay</a><br><a href=\"https://www.sandiego.org/\" target=\"_blank\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; La Jolla&nbsp;</a><br><a href=\"https://www.sandiego.org/\" target=\"_blank\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; &nbsp; Pacific Beach</a><br><span style=\"font-size: 0.875rem;\"><a href=\"https://www.sandiego.org/\" target=\"_blank\">&nbsp;</a></span><a href=\"https://www.sandiego.org/\" target=\"_blank\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><span style=\"font-size: 0.875rem;\"><a href=\"https://www.sandiego.org/\" target=\"_blank\">Downtown/Gaslamp Quarter&nbsp;</a><br></span><a href=\"https://www.sandiego.org/\" target=\"_blank\">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</a><span style=\"font-size: 0.875rem;\"><a href=\"https://www.sandiego.org/\" target=\"_blank\">Coronado</a></span></li><li><b>Hotel Circle (Near Spectrum Business Park Campus)</b></li><li><b>Where to Stay in San Diego - A Guide to the Best Neighborhoods</b></li><li><b>Gaslamp Quarter &nbsp;(Downtown San Diego)</b></li><li><b>Coronado Island</b></li><li><b>Liberty Station - Food &amp; Fun</b></li><li><b>La Jolla by the Sea</b></li><li><b><br></b></li></ul>",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "contacts2",
+          "_anchor": "contacts2-u",
+          "_styles": {
+            "UL": {
+              "color": "#ffffff"
+            }
+          }
         }
       ]
     }
