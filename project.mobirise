@@ -366,7 +366,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/national_logo-600x264.jpg",
+              "src": "@PROJECT_PATH@/assets/images/national-logo-600x264.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -378,7 +378,7 @@
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sip_combo_logo_stacked_rgb-600x375.png",
+              "src": "@PROJECT_PATH@/assets/images/sip-combo-logo-stacked-rgb-600x375.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -390,7 +390,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/harmony_combo_logo_stacked_rgb-600x281.png",
+              "src": "@PROJECT_PATH@/assets/images/harmony-combo-logo-stacked-rgb-600x281.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -402,7 +402,7 @@
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inspire_combo_logo_stacked_rgb-600x296.png",
+              "src": "@PROJECT_PATH@/assets/images/inspire-combo-logo-stacked-rgb-600x296.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
