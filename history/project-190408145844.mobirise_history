@@ -38,7 +38,9 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/GoOpen"
   },
   "pages": {
     "index.html": {
@@ -350,7 +352,7 @@
             "showButtons": false,
             "paddingTop": "1",
             "paddingBottom": "1",
-            "columns": "5",
+            "columns": "6",
             "bgImageRadio": false,
             "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
             "parallax": true,
@@ -426,13 +428,14 @@
           },
           "media6": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/mbr-600x450.jpg",
+              "src": "@PROJECT_PATH@/assets/images/outlook-tbplpywp-311x146.png",
               "class": "card-img-top",
               "width": 600,
               "active": true,
-              "link": "",
+              "link": "https://www.cesaschools.org/",
               "alt": "Council on Educational Standards adn Accountability",
-              "title": ""
+              "title": "",
+              "linkInNewWindow": true
             }
           },
           "title1": "National University&nbsp;",
