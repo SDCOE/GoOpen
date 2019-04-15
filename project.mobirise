@@ -325,7 +325,10 @@
             },
             ".mbr-section-title": {
               "font-size": "24px",
-              "color": "#ffffff"
+              "color": "#ffffff",
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_params": {
@@ -463,7 +466,9 @@
             ".mbr-section-title": {
               "color": "#ffffff",
               "font-size": "24px",
-              "text-align": "center"
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_params": {
@@ -603,7 +608,10 @@
             },
             ".mbr-section-title": {
               "color": "#ffffff",
-              "font-size": "24px"
+              "font-size": "24px",
+              "text-align": "left",
+              "font-family": "'Roboto', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto:400,300,700"
             }
           },
           "_params": {
