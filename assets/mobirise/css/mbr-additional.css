@@ -509,27 +509,21 @@ h6,
   font-size: 24px;
   color: #ffffff;
 }
-#header3-w .mbr-section-title,
-#header3-w .mbr-section-subtitle {
+#header3-13 .mbr-section-title,
+#header3-13 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-w .mbr-section-subtitle {
+#header3-13 .mbr-section-title {
   color: #ffffff;
-}
-#header3-w .mbr-section-title {
   font-size: 24px;
-  color: #ffffff;
 }
-#header3-x .mbr-section-title,
-#header3-x .mbr-section-subtitle {
+#header3-15 .mbr-section-title,
+#header3-15 .mbr-section-subtitle {
   text-align: center;
 }
-#header3-x .mbr-section-subtitle {
+#header3-15 .mbr-section-title {
   color: #ffffff;
-}
-#header3-x .mbr-section-title {
   font-size: 24px;
-  color: #ffffff;
 }
 #contacts2-u UL {
   color: #ffffff;

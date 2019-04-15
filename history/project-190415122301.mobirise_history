@@ -31,7 +31,7 @@
     "path": "@PROJECT_PATH@",
     "versionFirst": "4.8.10",
     "siteFonts": [],
-    "uniqCompNum": 43,
+    "uniqCompNum": 41,
     "versionPublish": "4.9.6",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/lls-goopensummit-savedate-128x84.png",
@@ -39,7 +39,9 @@
     "google-analytics": "",
     "cookiesAlert": "",
     "gdpr": "",
-    "siteUrl": "undefined"
+    "siteUrl": "undefined",
+    "publishType": "local",
+    "publishPath": "file:///Users/pamela.rabin/Documents/GitHub/GoOpen"
   },
   "pages": {
     "index.html": {
@@ -367,7 +369,7 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sdcoe-logo-color-600x465.jpg",
+              "src": "@PROJECT_PATH@/assets/images/sdcoe_logo_color-600x465.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -391,7 +393,7 @@
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/national-logo-600x264.jpg",
+              "src": "@PROJECT_PATH@/assets/images/national_logo-600x264.jpg",
               "class": "card-img-top",
               "width": 600,
               "active": true,
@@ -504,49 +506,34 @@
           },
           "media1": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/harmony-combo-logo-stacked-rgb-600x281.png",
+              "src": "@THEME_PATH@/components/_images/gallery/table.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://sanfordharmony.org/",
-              "alt": "Sanford Harmony at National University LOGO",
-              "title": "",
-              "linkInNewWindow": true
+              "active": true
             }
           },
           "media2": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/inspire-combo-logo-stacked-rgb-1-600x296.png",
+              "src": "@THEME_PATH@/components/_images/gallery/desktop.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://sanfordinspire.org/",
-              "alt": "Sanford Inspire at National University logo",
-              "title": "",
-              "linkInNewWindow": true
+              "active": true
             }
           },
           "media3": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/sip-combo-logo-stacked-rgb-600x375.png",
+              "src": "@THEME_PATH@/components/_images/gallery/coworkers.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "https://sanfordinstituteofphilanthropy.org/",
-              "alt": "Sanford Institute of Philanthropy at National University LOGO",
-              "title": "",
-              "linkInNewWindow": true
+              "active": true
             }
           },
           "media4": {
             "image": {
-              "src": "@PROJECT_PATH@/assets/images/placeholder-225x225.png",
+              "src": "@THEME_PATH@/components/_images/gallery/code-man.jpg",
               "class": "card-img-top",
               "width": 600,
-              "active": true,
-              "link": "index.html",
-              "alt": "empty space",
-              "title": ""
+              "active": true
             }
           },
           "media5": {
@@ -594,155 +581,6 @@
           ],
           "_name": "features3",
           "_anchor": "features3-14"
-        },
-        {
-          "_styles": {
-            ".mbr-section-title, .mbr-section-subtitle": {
-              "text-align": "center"
-            },
-            ".mbr-section-title": {
-              "color": "#ffffff",
-              "font-size": "24px"
-            }
-          },
-          "_params": {
-            "showMeta": false,
-            "paddingTop": 1,
-            "paddingBottom": 1,
-            "bgColor": "#005488"
-          },
-          "title": "Silver Level Sponsors",
-          "meta": "By John Smith posted July 20, 2016",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "header3",
-          "_anchor": "header3-15"
-        },
-        {
-          "_params": {
-            "showImages": true,
-            "showTitles": false,
-            "showSubtitles": false,
-            "ShowTexts": false,
-            "showButtons": false,
-            "paddingTop": "1",
-            "paddingBottom": "1",
-            "columns": "6",
-            "bgImageRadio": false,
-            "bgImage": "@THEME_PATH@/components/_images/jumbotron.jpg",
-            "parallax": true,
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgVideoRadio": false,
-            "bgVideo": {
-              "url": "https://www.youtube.com/watch?v=uNCr7NdOJgw"
-            },
-            "overlay": false,
-            "overlayColor": "#222",
-            "overlayOpacity": 0.5
-          },
-          "media1": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/cox-logo-4c-r-600x199.jpg",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://cox.com",
-              "alt": "COX Communications LOGO",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "media2": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/1071px-jack-in-the-box-2009-logo.svg-600x574.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://jackinthebox.com",
-              "alt": "Jack in the Box LOGO",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "media3": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/lexia-149x102.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://lexialearning.com/",
-              "alt": "Lexia Learning logo",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "media4": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mission-516x98.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://missionfed.com",
-              "alt": "Misison Federal Credit Union Logo",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "media5": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/mrelmer-200x200.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "http://mrelmer.com",
-              "alt": "Mr. Elmer LOGO",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "media6": {
-            "image": {
-              "src": "@PROJECT_PATH@/assets/images/nicu-404x125.png",
-              "class": "card-img-top",
-              "width": 600,
-              "active": true,
-              "link": "https://northisland.ccu.com/",
-              "alt": "North Island Credit Union",
-              "title": "",
-              "linkInNewWindow": true
-            }
-          },
-          "title1": "Bootstrap 4",
-          "subtitle1": "Bootstrap 4 has been noted",
-          "caption1": "Bootstrap 4 has been noted as one of the most reliable and proven frameworks and Mobirise has been equipped to develop websites using this framework.",
-          "title2": "Responsive",
-          "subtitle2": "One of Bootstrap 4's big points",
-          "caption2": "One of Bootstrap 4's big points is responsiveness and Mobirise makes effective use of this by generating highly responsive website for you.",
-          "title3": "Web Fonts",
-          "subtitle3": "Google has a highly exhaustive list of fonts",
-          "caption3": "Google has a highly exhaustive list of fonts compiled into its web font platform and Mobirise makes it easy for you to use them on your website easily and freely.",
-          "title4": "Unlimited Sites",
-          "subtitle4": "Mobirise gives you the freedom to develop",
-          "caption4": "Mobirise gives you the freedom to develop as many websites as you like given the fact that it is a desktop app.",
-          "title5": "Trendy Website Blocks",
-          "subtitle5": "Choose from the large selection of blocks",
-          "caption5": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
-          "title6": "Host Anywhere",
-          "subtitle6": "Don't limit yourself to just one platform",
-          "caption6": "Publish your website to a local drive, FTP or host on Amazon S3, Google Drive, Github. Don't limit yourself to just one platform or service provider.",
-          "button1": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button2": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button3": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button4": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button5": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "button6": "<a data-app-btn=\"true\" href=\"https://mobirise.com\" class=\"btn btn-primary\">MORE</a>",
-          "_tags": [
-            "Theme"
-          ],
-          "_name": "features3",
-          "_anchor": "features3-16"
         },
         {
           "_params": {
