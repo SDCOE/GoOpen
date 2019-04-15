@@ -509,6 +509,28 @@ h6,
   font-size: 24px;
   color: #ffffff;
 }
+#header3-w .mbr-section-title,
+#header3-w .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-w .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header3-w .mbr-section-title {
+  font-size: 24px;
+  color: #ffffff;
+}
+#header3-x .mbr-section-title,
+#header3-x .mbr-section-subtitle {
+  text-align: center;
+}
+#header3-x .mbr-section-subtitle {
+  color: #ffffff;
+}
+#header3-x .mbr-section-title {
+  font-size: 24px;
+  color: #ffffff;
+}
 #contacts2-u UL {
   color: #ffffff;
 }
